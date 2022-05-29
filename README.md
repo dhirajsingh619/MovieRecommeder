@@ -110,5 +110,10 @@ after that give these command in your venv: pip install requirement1.txt
 now you are readu to go..
 
 Preprocessing part:
-
-
+install all the three dataset in the same file as mainPP.py
+Open mainPP.py file on your pycharm and make changes in address of the three data set in mainPP.py, now after running the code you will get 4 pkl files,
+ after preprocessing now take a copy of pkl files in main folder
+ open main.py folder in terminal give the command streamlit run main.py 
+ you will be redirectedtd browser your browser where you can run the app.
+ 
+ Thank you...
