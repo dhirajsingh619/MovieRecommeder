@@ -9,18 +9,31 @@ Dataset
  Dependencies
  
  altair==4.2.0
+ 
 argon2-cffi==21.3.0
+
 argon2-cffi-bindings==21.2.0
+
 asttokens==2.0.5
+
 attrs==21.4.0
+
 backcall==0.2.0
+
 beautifulsoup4==4.11.1
+
 bleach==5.0.0
+
 blinker==1.4
+
 cachetools==5.1.0
+
 certifi==2022.5.18.1
+
 cffi==1.15.0
+
 charset-normalizer==2.0.12
+
 click==8.0.4
 colorama==0.4.4
 debugpy==1.6.0
@@ -104,12 +117,14 @@ widgetsnbextension==3.6.0
 zipp==3.8.0
 
 Dependencies Installation
+
 install a ide: Pycharm (recommanded)
 create a vietual environment first :https://www.youtube.com/watch?v=PFMzIE8HoUo&t=41s 
 after that give these command in your venv: pip install requirement1.txt
 now you are readu to go..
 
 Preprocessing part:
+
 install all the three dataset in the same file as mainPP.py
 Open mainPP.py file on your pycharm and make changes in address of the three data set in mainPP.py, now after running the code you will get 4 pkl files,
  after preprocessing now take a copy of pkl files in main folder
