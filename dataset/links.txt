@@ -1,0 +1,5 @@
+link for data set used:
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+top 50 movies:
+https://www.kaggle.com/datasets/aditya1303/imdb-top-50-movies
