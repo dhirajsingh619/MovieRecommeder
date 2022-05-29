@@ -103,3 +103,12 @@ webencodings==0.5.1
 widgetsnbextension==3.6.0
 zipp==3.8.0
 
+Dependencies Installation
+install a ide: Pycharm (recommanded)
+create a vietual environment first :https://www.youtube.com/watch?v=PFMzIE8HoUo&t=41s 
+after that give these command in your venv: pip install requirement1.txt
+now you are readu to go..
+
+Preprocessing part:
+
+
