@@ -201,11 +201,11 @@ Dependencies Installation
 
 install a ide: Pycharm (recommanded)
 
-create a vietual environment first :https://www.youtube.com/watch?v=PFMzIE8HoUo&t=41s 
+create a virtual environment first :https://www.youtube.com/watch?v=PFMzIE8HoUo&t=41s 
 
 after that give these command in your venv: pip install requirement1.txt
 
-now you are readu to go..
+now you are ready to go..
 
 Preprocessing part:
 
@@ -215,8 +215,8 @@ Open mainPP.py file on your pycharm and make changes in address of the three dat
 
 after preprocessing now take a copy of pkl files in main folder
 
-open main.py folder(change the adress of pkl files in app.py folder) in terminal give the command streamlit run main.py 
+open main.py folder(change the adress of pkl files in app.py folder) in terminal give the command "streamlit run main.py". 
 
-you will be redirected browser your browser where you can run the app.
+you will be redirected to your browser where you can enjoy the website.
  
  Thank you...
