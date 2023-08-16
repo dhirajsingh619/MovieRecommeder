@@ -1,4 +1,4 @@
-# engage_22
+# Movie Recommender
 
 This repository contains the code for building movie recommendation engine.
 
